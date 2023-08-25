@@ -53,4 +53,6 @@ private:
     static DataDB* db;
 };
 
+//something added to be test git , you can ignore it
+
 #endif // DATABASE_H
